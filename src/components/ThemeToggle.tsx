@@ -1,19 +1,20 @@
 import { useColorMode } from "@chakra-ui/color-mode";
 import { Box } from "@chakra-ui/layout";
 import React from "react";
+import { useColorScheme } from "src/hooks/useColorScheme";
 
 export default function ThemeToggle() {
-  const { toggleColorMode, colorMode } = useColorMode();
+  const { toggleColorScheme, colorScheme } = useColorScheme();
 
-  if (!colorMode) {
+  if (!colorScheme) {
     return null;
   }
 
   return (
     <Box
-      onClick={toggleColorMode}
+      onClick={toggleColorScheme}
       id="theme-toggle"
-      className={` ${colorMode}`.trim()}
+      className={` ${colorScheme}`.trim()}
     >
       <svg
         className="moon"

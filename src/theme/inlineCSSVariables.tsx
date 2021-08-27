@@ -5,7 +5,7 @@ export function setColorsByTheme() {
 
   function getInitialColorMode() {
     const persistedColorPreference = window.localStorage.getItem(
-      "chakra-ui-color-mode"
+      "color-mode"
     ) as "light" | "dark" | null;
     // If the user has explicitly chosen light or dark,
     // let's use it. Otherwise, this value will be null.
@@ -25,39 +25,46 @@ export function setColorsByTheme() {
   }
 
   const colorMode = getInitialColorMode();
-  document.body.className = "chakra-ui-" + colorMode;
 
-  const css = Object.entries(colors as CustomTheme).reduce<{
-    dark: Record<string, string>;
-    light: Record<string, string>;
-  }>(
-    (css, [name, colorByTheme]) => {
-      const cssVarName = `--${name}`;
+  // Define CSS variables using theme (less efficient)
+  //#region
+  // const css = Object.entries(colors as CustomTheme).reduce<{
+  //   dark: Record<string, string>;
+  //   light: Record<string, string>;
+  // }>(
+  //   (css, [name, colorByTheme]) => {
+  //     const cssVarName = `--${name}`;
 
-      css.dark[cssVarName] = colorByTheme.dark;
-      css.light[cssVarName] = colorByTheme.light;
+  //     css.dark[cssVarName] = colorByTheme.dark;
+  //     css.light[cssVarName] = colorByTheme.light;
 
-      return css;
-    },
-    { dark: {}, light: {} }
-  );
+  //     return css;
+  //   },
+  //   { dark: {}, light: {} }
+  // );
 
-  const style = document.createElement("style");
-  style.innerHTML = `
-    body.chakra-ui-light {
-      ${Object.entries(css.light)
-        .map(([name, value]) => `${name}: ${value};`)
-        .join("")}
-    }
-    body.chakra-ui-dark {
-      ${Object.entries(css.dark)
-        .map(([name, value]) => `${name}: ${value};`)
-        .join("")}
-    }
-    body { transition: color 350ms ease 0s, background 350ms ease 0s; }
-  `;
-  document.head.appendChild(style);
-  document.body.firstChild?.remove();
+  // const style = document.createElement("style");
+  // style.innerHTML = `
+  // body.chakra-ui-light {
+  //   ${Object.entries(css.light)
+  //     .map(([name, value]) => `${name}: ${value};`)
+  //     .join("")}
+  //   }
+  // body.chakra-ui-dark {
+  //   ${Object.entries(css.dark)
+  //     .map(([name, value]) => `${name}: ${value};`)
+  //     .join("")}
+  //   }
+  // body { transition: color 350ms ease 0s, background 350ms ease 0s; }
+  // `;
+
+  // document.head.appendChild(style);
+  //#endregion
+
+  document.documentElement.className = colorMode;
+  window.initialColorMode = colorMode;
+
+  document.querySelector("#colorscript")?.remove();
 }
 
 export function MagicScriptTag() {
@@ -69,7 +76,12 @@ export function MagicScriptTag() {
   let calledFunction = `(${boundFn})()`;
 
   // eslint-disable-next-line react/no-danger
-  return <script dangerouslySetInnerHTML={{ __html: calledFunction }} />;
+  return (
+    <script
+      id="colorscript"
+      dangerouslySetInnerHTML={{ __html: calledFunction }}
+    />
+  );
 }
 
 // if user doesn't have JavaScript enabled, set variables properly in a

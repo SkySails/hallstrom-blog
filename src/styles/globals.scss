@@ -8,6 +8,22 @@
   font-style: normal;
 }
 
+:root.dark {
+  --bg: #0f151c;
+  --bg-muted: #182635;
+  --bg-header: #0f151cd1;
+  --bg-contrast: #fff;
+  --accent: #20a8ff;
+}
+
+:root.light {
+  --bg: #fbfbfb;
+  --bg-muted: #dfebf6;
+  --bg-header: #fbfbfbd1;
+  --bg-contrast: #000;
+  --accent: #20a8ff;
+}
+
 html,
 body {
   padding: 0;

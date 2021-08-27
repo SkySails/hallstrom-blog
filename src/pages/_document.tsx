@@ -25,7 +25,7 @@ class CustomDocument extends Document {
         </Head>
         <body>
           <MagicScriptTag />
-          <ColorModeScript initialColorMode="light" />
+          <ColorModeScript initialColorMode="system" />
           <Main />
           <NextScript />
         </body>

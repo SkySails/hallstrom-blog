@@ -4,6 +4,7 @@ import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import { ChakraProvider } from "@chakra-ui/react";
 import theme from "../theme/chakraTheme";
 import React from "react";
+import ColorSchemeProvider from "src/hooks/useColorScheme";
 
 interface CustomAppProps extends AppProps {
   Component: {
@@ -20,12 +21,16 @@ function MyApp({ Component, pageProps }: CustomAppProps) {
   const LayoutComponent = Component.Layout || React.Fragment;
   return (
     <ApolloProvider client={client}>
-      <ChakraProvider theme={theme}>
-        <LayoutComponent
-          {...(Component.Layout ? pageProps : { children: pageProps.children })}
-        >
-          <Component {...pageProps} />
-        </LayoutComponent>
+      <ChakraProvider theme={theme} resetCSS>
+        <ColorSchemeProvider>
+          <LayoutComponent
+            {...(Component.Layout
+              ? pageProps
+              : { children: pageProps.children })}
+          >
+            <Component {...pageProps} />
+          </LayoutComponent>
+        </ColorSchemeProvider>
       </ChakraProvider>
     </ApolloProvider>
   );

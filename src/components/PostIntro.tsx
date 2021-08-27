@@ -30,7 +30,7 @@ export default function PostIntro({
           marginLeft: "-1.5em",
           width: "calc(100% + 2 * 1.5em)",
           gridColumn: "1/4",
-          background: "var(--bg-muted) url(/vec_dark.svg)",
+          background: "url(/vec_dark.svg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           transition: "background 350ms ease 0s",
