@@ -125,7 +125,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>A blog?</title>
+        <title>Home | Hallstrom Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
