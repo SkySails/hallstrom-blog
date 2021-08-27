@@ -1,0 +1,26 @@
+fragment PostMetadata on Post {
+  publishedBy {
+    name
+    picture
+  }
+  publishedAt
+  category
+  slug
+  title
+  description
+  readingTime
+  theme {
+    css
+  }
+  image {
+    url
+    height
+    width
+  }
+}
+
+query GetPosts {
+  posts {
+    ...PostMetadata
+  }
+}
