@@ -11,11 +11,11 @@ tags:
   - demo
 ---
 
-**Cycle 2107 out now**
+## Cycle 2107 out now
 
 Cycle 2107 has been released! Update your tools and add-on aircraft FMS databases using the FMS Data Manager, and using the Navigraph Navdata Center for MSFS 2020 users. The current Jeppesen charts are already available through the Navigraph Charts apps.
 
-**Updates to Navigraph services for Microsoft Flight Simulator 2020**
+## Updates to Navigraph services for Microsoft Flight Simulator 2020
 
 The Navigraph Navdata Center is our latest desktop application. It will not only update your Microsoft Flight Simulator 2020 with navigational data from Jeppesen, but also install the new Navigraph Charts In-Game Panel.
 
@@ -49,19 +49,19 @@ If you're new to the Charts In-Game panel, check out this [video](https://navigr
 
 Please post any issues or bug reports in the [support forum](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fforum.navigraph.com%2F?utm_source=newsletter&utm_medium=email&utm_content=forum_home_link_2&utm_campaign=2107). If you like what you are seeing, feel free to post some screenshots using [#microsoftflightsimulator](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fwww.facebook.com%2Fhashtag%2Fmicrosoftflightsimulator?utm_source=newsletter&utm_medium=email&utm_content=social_tag_link_fb&utm_campaign=2107) and [#navigraph](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Ftwitter.com%2Fsearch%3Fq%3D%2523navigraph&utm_source=newsletter&utm_medium=email&utm_content=social_tag_link_tw&utm_campaign=2107).
 
-**Video tip from the team: VOR circling approach tutorial in MSFS 2020**
+## Video tip from the team: VOR circling approach tutorial in MSFS 2020
 
 Thecorporatepilotdad is a YouTube content creator and professional pilot. In his latest tutorial he performs a VOR approach with circling to land at Rifle, Colorado (KRIL) using the PMDG DC-6 in Microsoft Flight Simulator 2020. Click [here](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVcogqaWc-LA?utm_source=newsletter&utm_medium=email&utm_content=yt_thecorporatepilotdad_vorcircling_link&utm_campaign=2107) to check it out!
 
 [![](https://ci5.googleusercontent.com/proxy/JwTGQV9sAT1bnLLUC3zWtRfCs6V_pvsX3gKPsJ1tg183jMYUeOKDQZe3ly5UMWSpy7L8hj73U_7dvgXVng43X6ZjCQ=s0-d-e1-ft#https://legacy.navigraph.com/ecmp/99/image_3.jpg)](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVcogqaWc-LA?utm_source=newsletter&utm_medium=email&utm_content=yt_thecorporatepilotdad_vorcircling_thumb&utm_campaign=2107)
 
-**Cycle 2108 out now**
+## Cycle 2108 out now
 
 Cycle 2108 has been released! Update your tools and add-on aircraft FMS databases using the FMS Data Manager, and using the Navigraph Navdata Center for MSFS 2020 users. The current Jeppesen charts are already available through the Navigraph Charts apps. You can download our apps from the [Your Account > Downloads](https://navigraph.com/account?utm_source=newsletter&utm_medium=email&utm_content=link_account_downloads&utm_campaign=2108_2) section on the website.
 
 ![](https://ci3.googleusercontent.com/proxy/c1LI9kso2Qrl8A_T3ZDfSmI1JTLHizydzUB0e5uA_1WCIX37pWkLVY0CP1cXQHgUdZFemtIsEQuPg9gHh76XgllQOgg=s0-d-e1-ft#https://legacy.navigraph.com/ecmp/100/image_0.jpg)
 
-**Navdata updates for Microsoft Flight Simulator 2020**
+## Navdata updates for Microsoft Flight Simulator 2020
 
 The Navigraph development team is continuously doing work to enhance our charts and navdata services. Thanks to user postings in [forum.navigraph.com](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fforum.navigraph.com%2F?utm_source=newsletter&utm_medium=email&utm_content=forum_home_link_1&utm_campaign=2108), we have been able to improve the accuracy of our navdata service for MSFS 2020 during the past months.
 
@@ -107,7 +107,7 @@ AIRAC 2106 Revision 2 (2021-06-19):
 
 We would like to thank all users who are submitting reports through our [support forum](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fforum.navigraph.com%2F?utm_source=newsletter&utm_medium=email&utm_content=forum_home_link_2&utm_campaign=2108), allowing us to further enhance our navdata services.
 
-**Video tip from the team: How to read SID, STAR, transition and approach charts**
+## Video tip from the team: How to read SID, STAR, transition and approach charts
 
 FilbertFlies is a YouTube content creator who produces flight simulation videos. Click [here](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU5PFBQY9TPM?utm_source=newsletter&utm_medium=email&utm_content=yt_filbertflies_charts_tutorial_link&utm_campaign=2108) to check out his tutorial on how to read aeronautical charts, focusing on SID, STAR, transition, and approach charts.
 
