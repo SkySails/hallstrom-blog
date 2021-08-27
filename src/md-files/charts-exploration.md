@@ -4,7 +4,7 @@ description: A quick summary and analysis of the features provided in the vector
 authorName: "Malte Hallström"
 authorRole: "Software Engineer"
 authorImage: https://lh3.googleusercontent.com/a-/AOh14GhD2YAeAZxhtWIiPCeSEvmdIlUrHC0uI0xSkY87ug=s96-c
-cover: http://hassios.ddns.net:3000/chart.png
+cover: https://blog.hallstrom.dev/chart.png
 tags:
   - navigraph
   - vector

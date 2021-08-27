@@ -4,7 +4,7 @@ description: The first post on this blog
 authorName: "Malte Hallström"
 authorRole: "Software Engineer"
 authorImage: https://lh3.googleusercontent.com/a-/AOh14GhD2YAeAZxhtWIiPCeSEvmdIlUrHC0uI0xSkY87ug=s96-c
-cover: https://images.alphacoders.com/100/1007514.jpg
+cover: https://ci3.googleusercontent.com/proxy/dMg0jA3djskUQM9hAhDplIA0sPCuAQsAogH2BlhSbDJVKWC_m_2kKB8-oe6-pKkEuq5Rmi6Zz8a0XicId6r9tFDYKNQ=s0-d-e1-ft#https://legacy.navigraph.com/ecmp/100/image_1.jpg
 tags:
   - newsletter
   - navigraph
