@@ -4,7 +4,7 @@ date: "March 10th, 2021 3:47pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---
-#
+
 We are very excited to announce the first successful cockpit integration of Navigraph Charts in a Microsoft Flight Simulator 2020 in-game aircraft. You can now view Jeppesen charts inside the simulator and also follow along on procedures and during taxiing using the moving maps functionality. In this video, the Working Title developers Matt and Dominik, walk us through how the Charts interface works onboard the Cessna Citation CJ4\. 
 
 \[\[MORE\]\]

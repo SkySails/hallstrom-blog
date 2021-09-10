@@ -4,7 +4,7 @@ date: "September 20th, 2019 12:07pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---
-#
+
 Every year, sometime in fall, the Navigraph team huddles up in something we call the yearly workshop. This year we met a little earlier than previous years, because we wanted the meeting to serve also as a kickoff into our new projects. Now that version 7 of Navigraph Charts is released\* we are ready to take on new projects.
 
 The workshop this year was preceded by many individual meetings trying to organize and prioritize our goals for the future. For the coming year, we have decided to focus on the following development.

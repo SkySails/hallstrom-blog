@@ -4,7 +4,7 @@ date: "September 27th, 2019 3:37pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---
-#
+
 This week Magnus and Pontus flew to Frankfurt to meet with Jeppesen, a subsidiary of Boeing, to discuss data availability for the future VFR Charts product. While in Frankfurt, or Neu-Isenburg more precisely, Magnus and Pontus also visited the production line and the Digital Aviation & Analytics Lab.  
 
 \[\[MORE\]\]
