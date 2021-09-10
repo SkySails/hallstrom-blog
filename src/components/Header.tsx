@@ -57,6 +57,8 @@ export default function Header({
           opacity={showTitle ? 1 : 0}
           transition="opacity 250ms ease"
           fontFamily="metropolis"
+          textOverflow="ellipsis"
+          noOfLines={2}
         >
           {title}
         </Heading>

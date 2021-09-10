@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import { MarkdownData } from "src/lib/markdownUtil";
+import HomeButton from "./HomeButton";
 
 interface PostIntroProps extends Partial<MarkdownData> {
   headingRef: React.RefObject<HTMLHeadingElement>;
@@ -48,6 +49,7 @@ export default function PostIntro({
           }
         }
       >
+        <HomeButton />
         <Text mb="4" opacity={0.5}>
           Published {dayjs(meta?.publishedTime).format("MMM DD, YYYY")}
         </Text>
@@ -93,7 +95,10 @@ export default function PostIntro({
         >
           <Box borderRadius="50%" overflow="hidden" w="35px" h="35px">
             <Image
-              src="https://lh3.googleusercontent.com/a-/AOh14GhD2YAeAZxhtWIiPCeSEvmdIlUrHC0uI0xSkY87ug=s96-c"
+              src={
+                meta?.authorImage ||
+                "https://lh3.googleusercontent.com/a-/AOh14GhD2YAeAZxhtWIiPCeSEvmdIlUrHC0uI0xSkY87ug=s96-c"
+              }
               alt="Profile picture"
               width="35"
               height="35"
