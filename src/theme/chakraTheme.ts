@@ -4,7 +4,7 @@ const theme = extendTheme({
   styles: {
     global: {
       body: {
-        backgroundColor: "var(--bg)",
+        backgroundColor: "var(--bg-muted)",
         color: "var(--bg-contrast)",
         transition: "color 350ms ease 0s, background 350ms ease 0s",
       },
