@@ -120,7 +120,7 @@ function Post({ info }: { info: PostMetadataFragment }) {
 }
 
 const Home: NextPage = () => {
-  // const { data } = useGetPostsQuery();
+  const { data } = useGetPostsQuery();
 
   return (
     <div className={styles.container}>
@@ -130,7 +130,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <VStack>
+        {/* <VStack>
           <Heading _hover={{ color: "var(--accent)" }}>
             <Link href={`/post/charts-exploration`}>
               <a>Charts exploration</a>
@@ -151,8 +151,8 @@ const Home: NextPage = () => {
               <a>SAAB Gripen</a>
             </Link>
           </Heading>
-        </VStack>
-        {/* <Grid
+        </VStack> */}
+        <Grid
           templateColumns="repeat(auto-fit, minmax(300px, 1fr))"
           gap={6}
           w="80vw"
@@ -161,7 +161,7 @@ const Home: NextPage = () => {
           {data?.posts
             ? data.posts.map((post) => <Post key={post.slug} info={post} />)
             : [1, 2, 3].map((n) => <Skeleton key={n} h="96" />)}
-        </Grid> */}
+        </Grid>
       </main>
     </div>
   );

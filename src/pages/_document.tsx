@@ -22,10 +22,17 @@ class CustomDocument extends Document {
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css"
           />
+          <link
+            rel="preload"
+            href="/Metropolis.otf"
+            as="font"
+            type="font/opentype"
+            crossOrigin="anonymous"
+          />
         </Head>
         <body>
-          <MagicScriptTag />
           <ColorModeScript initialColorMode="system" />
+          {/* <MagicScriptTag /> */}
           <Main />
           <NextScript />
         </body>

@@ -8,7 +8,7 @@
   font-style: normal;
 }
 
-:root.dark {
+body.chakra-ui-dark {
   --bg: #0f151c;
   --bg-muted: #182635;
   --bg-header: #0f151cd1;
@@ -16,7 +16,7 @@
   --accent: #20a8ff;
 }
 
-:root.light {
+body.chakra-ui-light {
   --bg: #fbfbfb;
   --bg-muted: #dfebf6;
   --bg-header: #fbfbfbd1;

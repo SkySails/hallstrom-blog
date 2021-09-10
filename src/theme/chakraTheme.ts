@@ -4,9 +4,9 @@ const theme = extendTheme({
   styles: {
     global: {
       body: {
-        backgroundColor: "var(--bg)",
-        color: "var(--bg-contrast)",
-        transition: "color 350ms ease 0s, background 350ms ease 0s",
+        // backgroundColor: "var(--bg)",
+        // color: "var(--bg-contrast)",
+        transition: "unset",
       },
     },
   },
