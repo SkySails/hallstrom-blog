@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 This week Magnus and Pontus flew to Frankfurt to meet with Jeppesen, a subsidiary of Boeing, to discuss data availability for the future VFR Charts product. While in Frankfurt, or Neu-Isenburg more precisely, Magnus and Pontus also visited the production line and the Digital Aviation & Analytics Lab.  
 
-\[\[MORE\]\]
-
 **Boeing Experience Center** 
 Elrey Borge Jeppesen, an American aviation pioneer, whose parents were immigrants from Denmark, made significant contributions to the field of air navigation in that he developed manuals and charts that allowed pilots to fly much more safely. In 1934 he founded a company that bears his name. In 2000 the company was acquired by Boeing.
 

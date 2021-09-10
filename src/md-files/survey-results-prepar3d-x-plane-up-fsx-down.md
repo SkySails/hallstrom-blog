@@ -11,8 +11,6 @@ This blog posts highlights some interesting and notable observations in the surv
 
 We also note that Lockheed Martin Prepar3D is now more popular than Microsoft FSX and that Laminar Research X-Plane has doubled in popularity since last year.
 
-\[\[MORE\]\]
-
 We at Navigraph really like surveys. It gives us a much better understanding of things that otherwise would have been, at best, educated guesses. We used the results of the 2016 survey to guide several of our development decisions. For this reason we want to thank all of you who participated. It also feels like you should gives yourselves a round of pats on the backs too, for helping to guide the future of flight simulation.
 
 We organized this year’s survey according to the following topics:

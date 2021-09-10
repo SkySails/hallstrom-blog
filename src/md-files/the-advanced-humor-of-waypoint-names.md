@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 It is a very subtle form of artistry but it will almost certainly blow your mind - if you are in the know, that is! Otherwise you don’t know, and, well, then you don’t know, and your mind will remain unblown. Let us just say this: When our team was going through the new charts for the next cycle someone actually uttered the words **“Could it be…? Nooo, it can’t be!”** However, before we reveal this gem, let’s start with the basics and slowly build up to what must be considered a modern day masterpiece.
 
-\[\[MORE\]\]
-
 So you know when you plan your route and come across a rather amusing waypoint name that makes you smile? A favorite of ours is GINIS off the coast of Dublin. While it’s admittedly funny, it makes sense and is also useful. With a name like that you won’t forget where to find it. It’s a joke but also a mnemonic, a memory rule. Similarly, between India and Pakistan you will find the waypoint TIGER which also makes a lot of sense. It’s a nice little tribute to the geographical surroundings of a particular waypoint.
 
 The next level of waypoint naming creativity is when you find waypoints grouped not only geographically but also thematically, like in the case of waypoints around the Brisbane airport. LEAKY BOATS SINNK PLUGG DRAIN may sound a bit ominous, but they are sure easy to remember.

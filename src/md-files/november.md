@@ -9,8 +9,6 @@ November has been a busy month for Navigraph. It included a [workshop ](http://b
 
 ![](/media/168288102716_0.png)
 
-\[\[MORE\]\]
-
 **Login Server Issues Resolved** 
 Since over a year back, we have started a process of eliminating all single points of failure and decentralizing the server architecture to Amazon Web Services. This means that there are now several servers that need to talk to each other in order to serve the software and websites we maintain. On November 1st the server responsible for maintaining the user accounts could not deliver responses fast enough to the server responsible for the login procedure which resulted in timeout errors. The user account server was so busy that they sometimes stopped responding, which resulted in more people trying to log in, which resulted in a behavior where some users could sometimes log in and sometimes other users would get an error or no response at all. However, as soon as a user had passed this bottleneck and was logged in, all other servers were behaving normally. In short, we were facing the same problem typical to big sports arenas - a narrow entrance, but once your are in there is plenty of space.
 

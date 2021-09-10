@@ -14,7 +14,6 @@ This post comments on questions like:
 * Was the survey representative?
 * Was there any selection bias?
 * Was the Survey Too Long?
-\[\[MORE\]\]
 
 **What was the role of the partners?**  
 Previous years we sent the survey link only to email addresses in the Navigraph user database. However, this year we asked developers, companies, and organizations to help us distribute the link also to their users. Some partners sent out a newsletter, some posted in social media, and others mentioned the link in their forums. In return for distributing the link, we presented the survey results to the partners in two ways - one which summarized all respondents, and one which summarized only those respondents who answered that they are using a particular developer’s or company’s software, or is a member of a particular organization. We refer to the latter group of respondents as the partner’s user group. The benefit of such an analysis is that the partners can see how their user group differs from the total group of respondents.  

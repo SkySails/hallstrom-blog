@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 What is the most popular flight simulation software? How many are planning to get the upcoming Microsoft Flight Simulator? How much do flight simulator enthusiasts spend on hardware and software every year? These were some of the questions that we set out to answer in this year’s edition of the FlightSim Community Survey. The turnout was better than ever and we are very happy with the results.
 
-\[\[MORE\]\]
-
 The survey consisted of 93 questions and covered demographics, relation to aviation, simulator habits, consumption habits, the simulator platform itself, some questions on media and community participation, and of course questions on aircraft and addon software. We dare to say that this is the most comprehensive survey of its kind both in terms of questions and number of respondents. Obviously we can’t cover all of the results in this blog post, but if you are interested please download the full report [here](https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fdownload.navigraph.com%2Fdocs%2Fflightsim-community-survey-by-navigraph-2019-final.pdf&utm_source=blog&utm_medium=link_report&utm_campaign=flightsimsurvey2019).
 
 The report is shared openly with the community for everyone’s benefit. The primary purpose of the survey is to provide the participating partners with information about the flight simulation community so that they are better able to:

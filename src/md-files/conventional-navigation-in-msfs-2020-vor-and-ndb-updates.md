@@ -10,8 +10,6 @@ tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flight sim]
 
 Since the release of PMDG DC-6 for MSFS 2020, we have seen an increasing demand for a complete and current database of VOR and NDB navaids. In particular, VOR flying has become increasingly popular within the flight simulation community. Conventional flying can also be practiced in some of the default aircraft types in MSFS, such as the Cessna 172 and the Bonanza G36\. In this article, we’ll cover our recent navdata developments that have been made to facilitate flight simulation with conventional navigation.
 
-\[\[MORE\]\]
-
 **What is conventional navigation?**  
   
 Flights using conventional navigation have been conducted since the 1930s and this is often regarded by pilots as an interesting and rewarding challenge, but let’s start by defining what conventional navigation is. When a flight is made using conventional navigation, the navigation is made with reference to radio aids. 

@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 What are Navigraph’s plans for the upcoming Microsoft Flight Simulator? How are Charts, NavData and Simlink used on the new platform? What is Navigraph’s vision on supporting addon developers in this new era? Magnus Axholt, CEO of Navigraph, provides some answers to these questions and more.
 
-\[\[MORE\]\]
-
 In a few days the long anticipated Microsoft Flight Simulator will be released. Microsoft did a good job in building up the anticipation. Little by little the flightsim community was let in on the developments and this simulator looks nothing short of amazing! I think what first draws the user’s attention are the stunning visuals. Streaming satellite imagery from Bing Maps interpolated with artificial intelligence looks awesome!
 
 This simulator is going to be great for VFR pilots which is good because in our mind that’s the stepping stone from being a casual flyer, say maybe a gamer on Xbox, into exploring aviation a little deeper. There is no question about it - the launch of a new flight simulator is going to attract a lot of new users to the flightsim community. Many of them are going to be complete beginners, and a simulator with accurate and realistic visuals is great for navigating by looking out of the window. We here at Navigraph are super excited about this new influx of users, because this means more people flying, more people controlling, more people using our services, and more people curious to start developing for the new platform. In short - more friends to share this amazing hobby with!

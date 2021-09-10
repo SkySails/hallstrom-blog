@@ -9,8 +9,6 @@ Every year, sometime in fall, the Navigraph team huddles up in something we call
 
 The workshop this year was preceded by many individual meetings trying to organize and prioritize our goals for the future. For the coming year, we have decided to focus on the following development.
 
-\[\[MORE\]\]
-
 **VFR Charts** 
 In addition to the existing IFR and CAO charts our Charts product will get VFR charts. We will also render a special version of the enroute chart which is referred to as “sectionals” or Sectional Aeronautical Charts. To achieve this we need to gather a lot of geographical data and run this through a version of our rendering pipeline which currently produces the enroute chart tiles.
 

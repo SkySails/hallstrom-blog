@@ -10,8 +10,6 @@ Enroute charts in printed form are big and unruly; covers the entire working sur
 
 So far the enroute charts in Navigraph Charts have been static. That is now going to change and we will make the enroute charts not only dynamic but also interactive. What do we mean by that? Read on and we’ll explain.
 
-\[\[MORE\]\]
-
 **Dynamic Enroute Charts** 
 A paper version of an enroute chart, and any scanned or vectorized copy of such a chart, is considered static in the sense that all of the information contained in the chart must be displayed at once. This is true for any paper chart, and results in interpretations which perhaps is the reason why cartography is sometimes considered an art. Even with creative solutions for visualizing the mapped reality, many charts have busy regions which are cluttered and hard to read. Anyone who have tried searching for a particular waypoint name, or trace a route, on a paper enroute chart knows this. Add to this that enroute charts are very seldom oriented such that up points north, which makes you tilt your head, making it even harder so see and straining on the neck. The enroute charts in Navigraph’s previous version of Charts were static, vectorized copies of enroute charts, but they will be no more.
 

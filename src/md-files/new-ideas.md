@@ -9,8 +9,6 @@ If you were to walk down the street in Old Town Stockholm were Navigraph has itâ
 
 ![](/media/166464426021_0.jpg)
 
-\[\[MORE\]\]
-
 It has been little over a month since Navigraph launched its new Charts software. The dust has now settled and it seems like all systems are still go. Everything is running on Amazon Web Services and scales up and down according to demand and should be able to take the surge of enthusiastic first time users. Moreover, the launch was preceded by a pretty extensive beta testing period for each product. Thank you very much to all volunteers for finding the small and not so small bugs. Below is a picture from launch date on the 5th of September as the developer team is monitoring the system and the first couple of users. (The big 0 is the number of exceptions thrown by the system at the moment.)
 
 ![](/media/166464426021_1.jpg)

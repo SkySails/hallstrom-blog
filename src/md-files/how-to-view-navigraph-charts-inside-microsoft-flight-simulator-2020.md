@@ -10,8 +10,6 @@ tags: [microsoft flight simulator, msfs, msfs2020, flightsimulator, flightsim]
 
 Navigraph is proud to offer the flight simulation community professional, worldwide, and updated airport/terminal charts from Jeppesen. The chart format is based on research by human factors specialists and subject matter experts, and is the real-world choice for many of the world’s airlines. The aim is to describe approach and departure procedures from airports with a clear presentation of altitudes, obstacles and landing minima during Instrument Flight Rules.  
 
-\[\[MORE\]\]
-
 The charts are accessible in our suite of apps, ranging from desktop and cloud versions to tablet apps through App Store and Google Play. Now the charts can also be accessed inside Microsoft Flight Simulator 2020 using the Charts In-Game Panel. This integration allows you to access the functionalities of the Navigraph Charts app inside the simulator, without the need for an external device or monitor.  
 
 ![image](https://64.media.tumblr.com/f8a453d8cd3b4413608882f3692eb75b/d79fae75cf635855-18/s540x810/f0d60916ab52f0adb6137212c9d8d65adcdfa277.png)

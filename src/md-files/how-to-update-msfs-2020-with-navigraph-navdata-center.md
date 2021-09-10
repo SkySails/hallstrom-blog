@@ -10,8 +10,6 @@ tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flightsim]
 
 Navigraph offers an update service for the navigational database in Microsoft Flight Simulator, also known as MSFS 2020\. The service installs current navdata directly into your MSFS 2020 from the industry leading provider Jeppesen. In this article we’ll explain how you can get current and worldwide navdata for MSFS 2020 fast and easy.  
 
-\[\[MORE\]\]
-
 **What is navdata?** 
 
 Navdata (also known as FMS Data) is a general purpose dataset used in a wide array of applications, ranging from flight planning systems to various navigational and performance systems onboard the aircraft. The data contains a massive amount of information to determine not only location of airports and waypoints, but also surface type and slope of runways, the layout of airport gates, navaid frequencies, holding patterns, obstacles close to defined routes, and much more.  

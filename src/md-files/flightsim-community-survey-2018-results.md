@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 The typical flight simulator enthusiast is a 43 year old male from the United States. He flies simulators 2-3 times per week for about 5-10 hours in total and was introduced to flight simulation 20 year ago. There is a 27% likelihood he already has some sort of pilot license. If so, he was introduced to flight simulation before he pursued his pilot license. Moreover he has a bachelor’s degree, is full time employed, makes 50,000 USD per year before tax, and spends about 250 USD on software and 200 USD on hardware annually. He prefers X-Plane 11, but Prepar3D v. 4 is also popular.
 
-\[\[MORE\]\]
-
 **Largest and Most Comprehensive FlightSim Survey Ever**  
 These are some of the conclusions from the annual FlightSim Community Survey 2018 organized by Navigraph together with 19 partners. More than 15,000 respondents contributed which makes this survey the largest of its kind. With 77 questions it is also the most comprehensive, covering demographics, as well as simulation preferences and habits. This year the survey also incorporated specific questions on Virtual Reality. Moreover, partners were invited to contribute with questions of particular interest to them. One such example is the use, perception and preference of freeware versus payware.
 

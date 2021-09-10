@@ -9,8 +9,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 Hey there! Navigraph CEO Magnus here! Summer is slowly turning into fall here in the northern hemisphere and the Navigraph team is returning back to office well energized after a much needed vacation. Today cycle 2109 goes into effect and we have prepared a fresh batch of updated navdata and charts for you. I also want to take this moment to give you a little update about what’s going on.  
 
-\[\[MORE\]\]
-
 **AIRAC Cycle Checklist**
 
 Every 28 days Navigraph releases new charts and updated navdata to the flight simulation community. Just like the rest of the aviation industry we follow the AIRAC cycle. In fact we have not missed a single cycle in the past 15 years.

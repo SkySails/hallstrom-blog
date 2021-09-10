@@ -11,8 +11,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
  Scattered thoughts and wild ideas were at first summarized in this early design specification. This document was in fact found just moments ago deep down in one of the paper stacks on a developer’s desk here at the office. This particular revision is dated July 5th 2016\. Most of the ideas in this document have now been turned into code.
 
- \[\[MORE\]\]
-
 **The Charts Product**  
 For those of you who are not familiar with the Navigraph Chart product, let’s briefly say something about its background and history. It all started in October 2004 when nDAC 1.0 was launched. The abbreviation stood for Navigraph Digital Aeronautical Charts. It is still a bit unclear why someone, anyone, thought this was a good acronym - half of the time it got confused with Microsoft Data Access Components (MDAC) and the rest of the time people just referred to it as “Navigraph Charts” anyways. In those early days, revisions were sent out on CD-ROMs (with regional coverage), and later DVDs (containing worldwide coverage), via postal service, a.k.a. snail mail. This update procedure was far from reliable, so as greater Internet bandwidth became available we incorporated a download manager into the Charts software. In 2006 we printed and shipped our last plastic disc.
 

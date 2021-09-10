@@ -11,8 +11,6 @@ tags: [simbrief, flight simulator, flight sim]
   
 SimBrief.com is our free, web-based, flight planning tool that produces accurate briefing packages for flight simulation. When creating a flight plan using SimBrief.com, a briefing package similar to those real-world pilots use will be generated. In this article, we will cover some of the latest feature additions to SimBrief that have been realized thanks to [this posting](https://href.li/?https://navigraph.com/redirect.ashx?url=https%3A%2F%2Fforum.navigraph.com%2Ft%2Fgeneral-feature-request-summarized%2F6035?utm_source=blog&utm_medium=social&utm_content=forum_sb_feature_req&utm_campaign=simbrief_updates_sep_21) in the Navigraph forum. 
 
-\[\[MORE\]\]
-
 **Enroute and takeoff alternate range rings added to interactive map**
 
 A takeoff alternate airport is used if an aircraft would not be able to return to its departure airport shortly after takeoff. This would be required if the weather at the departure airport is satisfactory for takeoff, but not for landing. SimBrief now displays takeoff alternate range rings on the interactive map, providing you with a clear overview of the different takeoff alternate options.

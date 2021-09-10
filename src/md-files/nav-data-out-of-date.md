@@ -10,8 +10,6 @@ tags: [msfs, microsoft flight simulator, flight sim, flightsim, flight simulator
 
 If you have encountered the “NAV DATA OUT OF DATE” message, or want to know how to get updated navdata for your flight simulators and add-ons, then you’re at the right place! Navigraph has provided the flight simulation community with navigational data since 2006\. In this article we’ll explain how you can get your navdata up to date fast and easy.  
 
-\[\[MORE\]\]
-
 **What is navdata?** 
 
 Navdata (also known as FMS Data) is a general purpose dataset used in a wide array of applications, ranging from flight planning systems to various navigational and performance systems onboard the aircraft. The data contains a massive amount of information to determine not only location of airports and waypoints, but also surface type and slope of runways, the layout of airport gates, navaid frequencies, holding patterns, obstacles close to defined routes, and much more.

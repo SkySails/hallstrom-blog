@@ -9,8 +9,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 Have you seen our new [website](https://navigraph.com)? We have made some nice improvements over the previous one that we would like to show you.
 
-\[\[MORE\]\]
-
 **Your Account**  
 First off - we have created a special area for you as a Navigraph user. You start by signing in via the button in the upper right corner using either your username like before or your email address. Being able to use both should make it easier to get in.
 

@@ -9,8 +9,6 @@ Here at Navigraph we have been deliberately secretive about our upcoming charts 
 
 ![image](/media/158703930126_0.png)
 
-\[\[MORE\]\]
-
 **Enhanced SID and STAR Chart Format**  
 The new version of Navigraph Charts will display Jeppesen’s new and enhanced SID and STAR chart format featuring, among other things, colored topography and true-to-scale depiction.  
 

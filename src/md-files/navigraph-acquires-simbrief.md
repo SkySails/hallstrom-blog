@@ -9,8 +9,6 @@ Navigraph, the flight simulation community’s trusted source for updated charts
 
 ![](https://64.media.tumblr.com/9f9bf2558ea96253ea3495ae80789819/b11d29e1013b3d8c-a6/s540x810/1cf29e715c5c9018b059d1ca5cd5616557d071cd.png)
 
-\[\[MORE\]\]
-
 The acquisition is a natural progression of the already close collaboration between Navigraph and SimBrief. It builds on the integration between the two platforms existing since 2013 and provides the ability to do flight planning using up to date navigational data.
 
 SimBrief’s flight planning functionality will continue to be free. Users who want to use the most current navigational data can subscribe to Navigraph and unlock the AIRAC cycles in SimBrief, as before.

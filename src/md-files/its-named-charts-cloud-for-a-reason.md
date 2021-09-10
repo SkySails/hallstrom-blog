@@ -11,8 +11,6 @@ You can also use the enroute charts to display your flights. In the photo below 
 
 ![image](/media/158228015966_0.jpg)
 
-\[\[MORE\]\]
-
 As mentioned before, we are also building an iOS app, and Android app, a Desktop version for Windows and Mac; but there is also a completely browser based version of Charts called Charts Cloud. The pun is intended, of course, but we named it this way mainly because it sits entirely in the cloud - on various Amazon AWS services to be more precise. Using the cloud based AWS services gives us speed, low latency, redundancy, and the possibility to have different environments for development and production.
 
 All these benefits brought by the AWS setup made us consider using parts of the Charts Cloud webview in our apps and desktop software as well. Yes, we know what some of you are thinking: The obvious drawback is that we will not support offline for enroute charts mode any longer, but there are plenty of features and benefits that is going to make this tradeoff resonable in the end. Have faith! Others might think that a webview will never feel as responsive as an interface programmed natively. Well, wait and see. This thing is fast!

@@ -7,8 +7,6 @@ authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 
 Charts Cloud, our browser based chart viewer, and Charts Android, the app for Android tablets, are now out the door and in the process of being beta tested by a team of invited hardcore and tenacious simmers. Using [TestFairy](https://testfairy.com/) reports and automated log data are trickling in to our office and one by one we are exterminating the final bugs. The Android app just passed 1,000 logged beta testing sessions over a total of 122 man hours. 
 
-\[\[MORE\]\]
-
 We are really pleased with our initial design decision to make significant parts of the applications web-based. Everything related to the enroute charts is shared across all platforms which means that if enroute charts pass testing on one platform, they should be good to go on all platforms.
 
 Furthermore, those of you familiar with software development might know that our applications are based on an API (Application Programming Interface). This API is also located on the web and once tested for one platform, it is fair to assume that it will behave quite similarly on all other platforms. Once we get it working on one platform, it’s quite straight forward to implement the same sequence of calls on other platforms.
