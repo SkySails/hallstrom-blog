@@ -1,7 +1,6 @@
 ---
-title: New Ideas
-date: October 16th, 2017 3:19pm
-
+title: "New Ideas"
+date: "October 16th, 2017 3:19pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

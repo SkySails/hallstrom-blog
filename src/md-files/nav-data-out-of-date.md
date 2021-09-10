@@ -1,9 +1,9 @@
 ---
-title: “NAV DATA OUT OF DATE”
-date: September 3rd, 2021 3:11pm
-tags: [msfs, microsoft flight simulator, flight sim, flightsim, flight simulator]
+title: "“NAV DATA OUT OF DATE”"
+date: "September 3rd, 2021 3:11pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [msfs, microsoft flight simulator, flight sim, flightsim, flight simulator]
 ---
 
 ![image](https://64.media.tumblr.com/43d9381aa6697189e698790ca48680dd/584932b3ee03b1f0-7f/s540x810/49c2d5c58e026c37f0383119f2ea1f7a7ae7cf25.png)

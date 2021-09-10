@@ -1,7 +1,6 @@
 ---
-title: The Yearly Workshop
-date: September 20th, 2019 12:07pm
-
+title: "The Yearly Workshop"
+date: "September 20th, 2019 12:07pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

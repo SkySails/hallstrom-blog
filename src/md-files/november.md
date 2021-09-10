@@ -1,7 +1,6 @@
 ---
-title: November
-date: December 7th, 2017 2:00pm
-
+title: "November"
+date: "December 7th, 2017 2:00pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

@@ -1,7 +1,6 @@
 ---
-title: Meta Analysis of the Community Survey
-date: January 22nd, 2019 3:26pm
-
+title: "Meta Analysis of the Community Survey"
+date: "January 22nd, 2019 3:26pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

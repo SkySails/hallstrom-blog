@@ -1,7 +1,6 @@
 ---
-title: The Advanced Humor of Waypoint Names
-date: April 24th, 2017 11:06pm
-
+title: "The Advanced Humor of Waypoint Names"
+date: "April 24th, 2017 11:06pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

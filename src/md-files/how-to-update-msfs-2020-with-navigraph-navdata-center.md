@@ -1,9 +1,9 @@
 ---
-title: How to Update MSFS 2020 with Navigraph Navdata Center
-date: September 3rd, 2021 3:26pm
-tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flightsim]
+title: "How to Update MSFS 2020 with Navigraph Navdata Center"
+date: "September 3rd, 2021 3:26pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flightsim]
 ---
 
 ![image](https://64.media.tumblr.com/08c2e110403b15f291d392bfcd0f147c/68a333681e6806a4-03/s540x810/ae971668d90da606301a56195edf2c486ccdce13.png)

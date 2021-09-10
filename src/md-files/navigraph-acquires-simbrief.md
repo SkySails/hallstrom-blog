@@ -1,7 +1,6 @@
 ---
-title: Navigraph acquires SimBrief
-date: March 31st, 2021 8:28pm
-
+title: "Navigraph acquires SimBrief"
+date: "March 31st, 2021 8:28pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

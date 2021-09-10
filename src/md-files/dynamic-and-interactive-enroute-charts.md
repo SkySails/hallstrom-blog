@@ -1,9 +1,9 @@
 ---
-title: Dynamic and Interactive Enroute Charts
-date: November 24th, 2016 5:12pm
-tags: [charts, enroute charts, news, preview]
+title: "Dynamic and Interactive Enroute Charts"
+date: "November 24th, 2016 5:12pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [charts, enroute charts, news, preview]
 ---
 
 Enroute charts in printed form are big and unruly; covers the entire working surface of your average desk; flaps around the cockpit and won’t fold back to its original pocket size. By its size factor alone we can all agree that enroute charts are much more manageable in a digital form. In Navigraph Charts, you can easily zoom in and out of an area of interest using the pinch zoom gesture on tablets and the scroll wheel on a mouse. That’s fine, but in the next version of Charts we are taking digital enroute charts a few steps further in terms of usability and legibility.

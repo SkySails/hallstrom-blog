@@ -1,7 +1,6 @@
 ---
-title: Jeppesen Visit
-date: September 27th, 2019 3:37pm
-
+title: "Jeppesen Visit"
+date: "September 27th, 2019 3:37pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

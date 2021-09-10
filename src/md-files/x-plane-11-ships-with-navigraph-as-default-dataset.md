@@ -1,6 +1,6 @@
 ---
-title: X-Plane 11 Ships with Navigraph as Default Dataset
-date: November 21st, 2016 5:46pm
+title: "X-Plane 11 Ships with Navigraph as Default Dataset"
+date: "November 21st, 2016 5:46pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 tags: [news ,  xplane11,  fmsdata]

@@ -1,7 +1,6 @@
 ---
-title: Cycle 2109 Is Out!
-date: September 9th, 2021 11:23am
-
+title: "Cycle 2109 Is Out!"
+date: "September 9th, 2021 11:23am"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

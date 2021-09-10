@@ -1,7 +1,6 @@
 ---
-title: Test 1 2. Is this thing on?
-date: May 20th, 2017 4:59pm
-
+title: "Test 1 2. Is this thing on?"
+date: "May 20th, 2017 4:59pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

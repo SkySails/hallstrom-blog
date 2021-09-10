@@ -1,7 +1,6 @@
 ---
-title: New Website
-date: July 16th, 2020 10:21am
-
+title: "New Website"
+date: "July 16th, 2020 10:21am"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

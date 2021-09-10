@@ -1,7 +1,6 @@
 ---
-title: Navigraph’s Plans for the new Microsoft Flight Simulator
-date: August 13th, 2020 1:38pm
-
+title: "Navigraph’s Plans for the new Microsoft Flight Simulator"
+date: "August 13th, 2020 1:38pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

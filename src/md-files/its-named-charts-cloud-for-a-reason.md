@@ -1,7 +1,6 @@
 ---
-title: It’s named Charts Cloud for a reason
-date: March 10th, 2017 1:52pm
-
+title: "It’s named Charts Cloud for a reason"
+date: "March 10th, 2017 1:52pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

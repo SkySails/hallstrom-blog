@@ -1,7 +1,6 @@
 ---
-title: Charts - a Creative Process
-date: February 2nd, 2017 7:24pm
-
+title: "Charts - a Creative Process"
+date: "February 2nd, 2017 7:24pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

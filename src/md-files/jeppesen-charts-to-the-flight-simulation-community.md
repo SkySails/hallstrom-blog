@@ -1,7 +1,6 @@
 ---
-title: Jeppesen Charts to the Flight Simulation Community
-date: March 22nd, 2017 3:32pm
-
+title: "Jeppesen Charts to the Flight Simulation Community"
+date: "March 22nd, 2017 3:32pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

@@ -1,9 +1,9 @@
 ---
-title: How to View Navigraph Charts Inside Microsoft Flight Simulator 2020
-date: September 3rd, 2021 3:41pm
-tags: [microsoft flight simulator, msfs, msfs2020, flightsimulator, flightsim]
+title: "How to View Navigraph Charts Inside Microsoft Flight Simulator 2020"
+date: "September 3rd, 2021 3:41pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [microsoft flight simulator, msfs, msfs2020, flightsimulator, flightsim]
 ---
 
 ![image](https://64.media.tumblr.com/7e230d7709c295e9970d8e2083f40f1d/d79fae75cf635855-9a/s540x810/07d36e1515618e720565f47bf4d6c1a584506082.png)

@@ -1,7 +1,6 @@
 ---
-title: FlightSim Community Survey 2018 Results
-date: December 19th, 2018 2:21pm
-
+title: "FlightSim Community Survey 2018 Results"
+date: "December 19th, 2018 2:21pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

@@ -1,9 +1,9 @@
 ---
-title: Conventional Navigation in MSFS 2020: VOR and NDB Updates
-date: September 9th, 2021 11:30am
-tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flight sim]
+title: "Conventional Navigation in MSFS 2020: VOR and NDB Updates"
+date: "September 9th, 2021 11:30am"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [msfs2020, msfs, microsoft flight simulator, flight simulator, flight sim]
 ---
 
 ![image](https://64.media.tumblr.com/27baaed1dff3afdfde5ec21631a9fb14/fe24e8c9e03cb466-46/s540x810/49f7fe166d9e2eda25f41cd67a675e83ca764e6e.jpg)

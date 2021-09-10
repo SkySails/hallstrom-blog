@@ -1,7 +1,6 @@
 ---
-title: FlightSim Community Survey 2019 Results
-date: February 3rd, 2020 1:49pm
-
+title: "FlightSim Community Survey 2019 Results"
+date: "February 3rd, 2020 1:49pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

@@ -1,7 +1,6 @@
 ---
-title: Navigraph Charts in Working Title Cessna Citation CJ4 for FS2020
-date: March 10th, 2021 3:47pm
-
+title: "Navigraph Charts in Working Title Cessna Citation CJ4 for FS2020"
+date: "March 10th, 2021 3:47pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---

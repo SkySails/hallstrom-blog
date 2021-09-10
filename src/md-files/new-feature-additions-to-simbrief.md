@@ -1,9 +1,9 @@
 ---
-title: New Feature Additions to SimBrief
-date: September 9th, 2021 10:17am
-tags: [simbrief, flight simulator, flight sim]
+title: "New Feature Additions to SimBrief"
+date: "September 9th, 2021 10:17am"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [simbrief, flight simulator, flight sim]
 ---
 
 ![image](https://64.media.tumblr.com/3dfe0005c668f4150f920d566f7bd04f/6e542461dd29644a-37/s540x810/9d7e1ea50f1ed14f4a12f588590a068add89a13a.png)

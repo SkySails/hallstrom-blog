@@ -1,9 +1,9 @@
 ---
-title: Uncovering next version of Charts
-date: November 18th, 2016 3:43pm
-tags: [news, new product, charts]
+title: "Uncovering next version of Charts"
+date: "November 18th, 2016 3:43pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
+tags: [news, new product, charts]
 ---
 
 We are kicking off this developer blog in a grand way by announcing the biggest piece of news since ever in the history of Navigraph: For over a year now we have been working in stealth mode to completely relaunch the Charts product line. The next version of Charts, scheduled for launch early 2017, will include new clients for phones and tablets (iOS and Android), new desktop clients (Windows and Mac), and a new web browser client.

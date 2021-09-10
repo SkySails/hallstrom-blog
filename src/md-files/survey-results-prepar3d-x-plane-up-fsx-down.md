@@ -1,7 +1,6 @@
 ---
-title: Survey Results: Prepar3D & X-Plane up, FSX down
-date: November 14th, 2017 8:00pm
-
+title: "Survey Results: Prepar3D & X-Plane up, FSX down"
+date: "November 14th, 2017 8:00pm"
 authorName: "Navigraph Team"
 authorImage: "https://navigraph.com/assets/images/navigraph_logo_only.svg"
 ---
