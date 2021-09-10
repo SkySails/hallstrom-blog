@@ -42,7 +42,7 @@ The E-series has a new and more powerful engine, improved range performance and 
 ## Defeat any threat. Anywhere.
 
 Gripen E-series carries a variety of both active and passive measures to disrupt enemy efforts and protect itself and other friendly units. Its advanced electronic warfare system, similar to an electronic shield, allows disruption of the enemy’s ability to function effectively. This can be used either to assist in destruction of enemy assets or simply to reduce the enemy’s ability to act. All this while ensuring mission success, using the latest weaponry and countermeasures
-::full-bleed{src="https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,q_auto,dpr_auto/w_2048/saab/29862/Gripen_V%C3%A4gbas_02102018__PEK0982.jpg" position="100% 80%"}
+::full-bleed{src="https://res.cloudinary.com/dkkd45ayz/image/upload/f_auto,q_auto,dpr_auto/w_2048/saab/29862/Gripen_V%C3%A4gbas_02102018__PEK0982.jpg" }
 
 ## See the unseen. Before being seen.
 
